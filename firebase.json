@@ -1,0 +1,7 @@
+{
+  "hosting": {
+    "site": "msec-staff-assesment",
+    "public": ".output/public",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"]
+  }
+}
